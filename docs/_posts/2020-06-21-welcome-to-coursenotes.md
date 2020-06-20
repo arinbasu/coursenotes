@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to Course Notes"
-date:   2020-06-21
 categories: intro 
 
 ---
