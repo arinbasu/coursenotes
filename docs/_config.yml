@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Arindam Basu's course notes
+title: Lecture notes of Arindam Basu's courses at the University of Canterbury
 email: arindam.basu@canterbury.ac.nz
 description: > # this means to ignore newlines until "baseurl:"
   Notes from different lectures I offer at the University of Canterbury. 
