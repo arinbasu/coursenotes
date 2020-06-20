@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Welcome to Course Notes"
-date:   2020-06-21 10:02:27 +1200
-categories: intro environment evidence lectures
+date:   2020-06-21
+categories: intro 
+
 ---
 
 ## Introduction to the four courses
