@@ -2,7 +2,7 @@
 layout: page
 title: Introduction and overview of Evidence based health
 date: 2020-07-13
-categories: evidence intro
+tags: evidence intro
 ---
 
 ## Introduction to Evidence based health course
